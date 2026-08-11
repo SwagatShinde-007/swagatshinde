@@ -12,13 +12,11 @@
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/swagatshinde/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:htcswagatshinde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://nukaazo.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yadnyeshkhotre&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SwagatShinde-007&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -30,9 +28,6 @@
 name: Swagat Shinde
 role: Full-Stack Developer
 location: Pune, India
-currently_working_on: Nukaazo - A Hyperlocal E-commerce Platform
-currently_learning: Rust, System Design
-ask_me_about: React, Node.js, Python, DevOps
 fun_fact: I debug better with coffee ☕
 ```
 
