@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yadnyeshkhotre&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=swagatshinde&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -98,16 +98,16 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadnyeshkhotre&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnyeshkhotre&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swagatshinde&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatshinde&layout=compact&theme=radical"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yadnyeshkhotre&theme=radical" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatshinde&theme=radical" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyeshkhotre&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatshinde&theme=react-dark" width="100%"/>
 
 </div>
 
@@ -117,24 +117,24 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-<a href="https://github.com/yadnyeshkhotre/ICEM-Tech-Fest">
+<a href="https://github.com/swagatshinde/ICEM-Tech-Fest">
   <img src="https://img.shields.io/badge/ICEM--Tech--Fest-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/yadnyeshkhotre/ICEM-Tech-Fest?style=for-the-badge&color=6a11cb"/>
+<img src="https://img.shields.io/github/stars/swagatshinde/ICEM-Tech-Fest?style=for-the-badge&color=6a11cb"/>
 
 <br/><br/>
 
-<a href="https://github.com/yadnyeshkhotre/bugzy-invoice-snap">
+<a href="https://github.com/swagatshinde/bugzy-invoice-snap">
   <img src="https://img.shields.io/badge/bugzy--invoice--snap-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/yadnyeshkhotre/bugzy-invoice-snap?style=for-the-badge&color=6a11cb"/>
+<img src="https://img.shields.io/github/stars/swagatshinde/bugzy-invoice-snap?style=for-the-badge&color=6a11cb"/>
 
 <br/><br/>
 
-<a href="https://github.com/yadnyeshkhotre/Code-Loom-Weave-the-Missing-Logic">
+<a href="https://github.com/swagatshinde/Code-Loom-Weave-the-Missing-Logic">
   <img src="https://img.shields.io/badge/Code--Loom-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/yadnyeshkhotre/Code-Loom-Weave-the-Missing-Logic?style=for-the-badge&color=6a11cb"/>
+<img src="https://img.shields.io/github/stars/swagatshinde/Code-Loom-Weave-the-Missing-Logic?style=for-the-badge&color=6a11cb"/>
 
 </div>
 
@@ -143,7 +143,7 @@ fun_fact: I debug better with coffee ☕
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yadnyeshkhotre/yadnyeshkhotre/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/swagatshinde/swagatshinde/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
 <br/>
